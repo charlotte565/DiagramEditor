@@ -1,0 +1,4 @@
+Circle 99.0 127.0 10.0 true 0 0 0
+Lines 210.0 180.0 147.0 278.0 0 0 0
+Rectangles 218.0 103.0 10.0 10.0 true 0 0 0
+TextBox 193.0 331.0 hello 20 0 0 0 true

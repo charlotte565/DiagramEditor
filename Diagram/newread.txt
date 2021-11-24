@@ -1,0 +1,15 @@
+Rectangles 102.0 228.0 60.0 40.0 true 0 153 204
+Rectangles 252.0 192.0 60.0 40.0 true 0 153 204
+Rectangles 189.0 78.0 60.0 40.0 true 0 153 204
+Rectangles 190.0 457.0 60.0 40.0 true 0 153 204
+Rectangles 81.0 350.0 60.0 40.0 true 0 153 204
+Lines 88.0 132.0 300.0 402.0 204 0 204
+Lines 116.0 455.0 252.0 287.0 204 0 204
+Lines 67.0 264.0 276.0 89.0 204 0 204
+TextBox 111.0 84.0 hiiii 20 204 0 204 true
+Circle 233.0 206.0 60.0 true 255 255 0
+Circle 61.0 334.0 60.0 true 255 255 0
+Circle 172.0 436.0 60.0 true 255 255 0
+Circle 273.0 310.0 60.0 true 255 255 0
+Circle 46.0 157.0 60.0 true 255 255 0
+Circle 253.0 88.0 60.0 true 255 255 0

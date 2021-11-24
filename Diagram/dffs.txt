@@ -1,0 +1,6 @@
+Circle 302.0 181.0 10.0 true 0 0 0
+Circle 110.0 217.0 10.0 true 0 0 0
+Circle 179.0 383.0 10.0 true 0 0 0
+Circle 284.0 408.0 10.0 true 0 0 0
+Circle 351.0 369.0 10.0 true 0 0 0
+Circle 331.0 320.0 10.0 true 0 0 0
